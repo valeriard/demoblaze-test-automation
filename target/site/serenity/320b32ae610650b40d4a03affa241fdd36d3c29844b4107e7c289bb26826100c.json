@@ -1,0 +1,277 @@
+{
+  "name": "Finish the purchase of the products in the cart",
+  "id": "stay-on-the-demoblaze-home-page;finish-the-purchase-of-the-products-in-the-cart",
+  "scenarioId": "boughtProduct:Finish the purchase of the products in the cart",
+  "methodName": "Finish the purchase of the products in the cart",
+  "testSteps": [
+    {
+      "number": 1,
+      "description": "Given the customer is on the Demoblaze home page as a guest user",
+      "duration": 2069,
+      "startTime": "2026-06-07T12:19:10.591039-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+          "timeStamp": 1780852752660,
+          "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 2,
+          "description": "Open the Demoblaze home page",
+          "duration": 1864,
+          "startTime": "2026-06-07T12:19:10.790162100-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+              "timeStamp": 1780852752654,
+              "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "description": "When the customer goes to \"Cart\" page",
+      "duration": 7112,
+      "startTime": "2026-06-07T12:19:12.660946900-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png",
+          "timeStamp": 1780852759773,
+          "screenshotName": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 4,
+      "description": "And the customer clicks on Place Order button",
+      "duration": 5320,
+      "startTime": "2026-06-07T12:19:19.774939600-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png",
+          "timeStamp": 1780852765095,
+          "screenshotName": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 5,
+          "description": "Click on Place Order button",
+          "duration": 5307,
+          "startTime": "2026-06-07T12:19:19.781949900-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png",
+              "timeStamp": 1780852765089,
+              "screenshotName": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "description": "And the customer fills in the purchase form with valid information",
+      "duration": 3693,
+      "startTime": "2026-06-07T12:19:25.095747900-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png",
+          "timeStamp": 1780852765100,
+          "screenshotName": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png"
+        }
+      ],
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 7,
+          "description": "Fill order form",
+          "duration": 3682,
+          "startTime": "2026-06-07T12:19:25.105013300-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png",
+              "timeStamp": 1780852765112,
+              "screenshotName": "079563ca1b8e66e0441c188ae86fb69a252ac88663c4ca6a9f57ad4ed79f0388.png"
+            }
+          ],
+          "exception": {
+            "errorType": "org.openqa.selenium.ElementNotInteractableException",
+            "message": "element not interactable\n  (Session info: chrome\u003d148.0.7778.218)\nBuild info: version: \u00274.38.0\u0027, revision: \u00276b412e825c*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.4\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [dbb0e7b0492c7f1aadb4f38f2101f466, clearElement {id\u003df.33BF4470D0A49C7F41BE545C1ED27F91.d.734599332DA149A9463378A0ED81C172.e.96}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.218, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\\Users\\vrive\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56903}, goog:processID: 6516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56903/devtoo..., se:cdpVersion: 148.0.7778.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (dbb0e7b0492c7f1aadb4f38f2101f466)] -\u003e xpath: //div[@class\u003d\u0027modal-body\u0027]//div[@class\u003d\u0027form-group\u0027]//input]\nSession ID: dbb0e7b0492c7f1aadb4f38f2101f466",
+            "stackTrace": [
+              {
+                "declaringClass": "com.demoblaze.automation.pagesobject.PlaceOrderPage",
+                "methodName": "fillOrderForm",
+                "fileName": "PlaceOrderPage.java",
+                "lineNumber": 19
+              },
+              {
+                "declaringClass": "com.demoblaze.automation.steps.PlaceOrderSteps",
+                "methodName": "fillOrder",
+                "fileName": "PlaceOrderSteps.java",
+                "lineNumber": 15
+              },
+              {
+                "declaringClass": "com.demoblaze.automation.definitions.BoughtProductStepsDefinitions",
+                "methodName": "theCustomerFillsInThePurchaseFormWithValidInformation",
+                "fileName": "BoughtProductStepsDefinitions.java",
+                "lineNumber": 70
+              },
+              {
+                "declaringClass": "worker.org.gradle.process.internal.worker.GradleWorkerMain",
+                "methodName": "run",
+                "fileName": "GradleWorkerMain.java",
+                "lineNumber": 69
+              },
+              {
+                "declaringClass": "worker.org.gradle.process.internal.worker.GradleWorkerMain",
+                "methodName": "main",
+                "fileName": "GradleWorkerMain.java",
+                "lineNumber": 74
+              }
+            ]
+          },
+          "result": "ERROR",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "description": "And the customer clicks on Purchase button",
+      "duration": 0,
+      "startTime": "2026-06-07T12:19:28.796998400-05:00[America/Bogota]",
+      "result": "SKIPPED",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 9,
+      "description": "Then a confirmation message should be displayed confirming the purchase",
+      "duration": 0,
+      "startTime": "2026-06-07T12:19:28.803006800-05:00[America/Bogota]",
+      "result": "SKIPPED",
+      "precondition": false,
+      "level": 0
+    }
+  ],
+  "userStory": {
+    "id": "boughtProduct",
+    "storyName": "Stay on the Demoblaze home page",
+    "displayName": "Stay on the Demoblaze home page",
+    "path": "boughtProduct",
+    "pathElements": [
+      {
+        "name": "boughtProduct",
+        "description": ""
+      }
+    ],
+    "type": "feature"
+  },
+  "title": "Finish the purchase of the products in the cart",
+  "description": "",
+  "backgroundTitle": "",
+  "backgroundDescription": "",
+  "tags": [
+    {
+      "name": "Chrome",
+      "type": "context",
+      "displayName": "Chrome"
+    },
+    {
+      "name": "Windows",
+      "type": "context",
+      "displayName": "Windows"
+    },
+    {
+      "name": "EndToEnd",
+      "type": "tag",
+      "displayName": "EndToEnd",
+      "rawStringFromValueTag": "EndToEnd"
+    },
+    {
+      "name": "Chrome, Windows",
+      "type": "context",
+      "displayName": "Chrome, Windows"
+    },
+    {
+      "name": "FinishPurchase",
+      "type": "tag",
+      "displayName": "FinishPurchase",
+      "rawStringFromValueTag": "FinishPurchase"
+    }
+  ],
+  "startTime": "2026-06-07T12:19:10.555039-05:00[America/Bogota]",
+  "endTime": "2026-06-07T12:19:28.810312-05:00[America/Bogota]",
+  "duration": 1900,
+  "testFailureCause": {
+    "errorType": "org.openqa.selenium.ElementNotInteractableException",
+    "message": "element not interactable\n  (Session info: chrome\u003d148.0.7778.218)\nBuild info: version: \u00274.38.0\u0027, revision: \u00276b412e825c*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.4\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [dbb0e7b0492c7f1aadb4f38f2101f466, clearElement {id\u003df.33BF4470D0A49C7F41BE545C1ED27F91.d.734599332DA149A9463378A0ED81C172.e.96}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.218, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\\Users\\vrive\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56903}, goog:processID: 6516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56903/devtoo..., se:cdpVersion: 148.0.7778.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (dbb0e7b0492c7f1aadb4f38f2101f466)] -\u003e xpath: //div[@class\u003d\u0027modal-body\u0027]//div[@class\u003d\u0027form-group\u0027]//input]\nSession ID: dbb0e7b0492c7f1aadb4f38f2101f466",
+    "stackTrace": [
+      {
+        "declaringClass": "com.demoblaze.automation.pagesobject.PlaceOrderPage",
+        "methodName": "fillOrderForm",
+        "fileName": "PlaceOrderPage.java",
+        "lineNumber": 19
+      },
+      {
+        "declaringClass": "com.demoblaze.automation.steps.PlaceOrderSteps",
+        "methodName": "fillOrder",
+        "fileName": "PlaceOrderSteps.java",
+        "lineNumber": 15
+      },
+      {
+        "declaringClass": "com.demoblaze.automation.definitions.BoughtProductStepsDefinitions",
+        "methodName": "theCustomerFillsInThePurchaseFormWithValidInformation",
+        "fileName": "BoughtProductStepsDefinitions.java",
+        "lineNumber": 70
+      },
+      {
+        "declaringClass": "worker.org.gradle.process.internal.worker.GradleWorkerMain",
+        "methodName": "run",
+        "fileName": "GradleWorkerMain.java",
+        "lineNumber": 69
+      },
+      {
+        "declaringClass": "worker.org.gradle.process.internal.worker.GradleWorkerMain",
+        "methodName": "main",
+        "fileName": "GradleWorkerMain.java",
+        "lineNumber": 74
+      }
+    ]
+  },
+  "testFailureClassname": "org.openqa.selenium.ElementNotInteractableException",
+  "testFailureMessage": "element not interactable\n  (Session info: chrome\u003d148.0.7778.218)\nBuild info: version: \u00274.38.0\u0027, revision: \u00276b412e825c*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.4\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [dbb0e7b0492c7f1aadb4f38f2101f466, clearElement {id\u003df.33BF4470D0A49C7F41BE545C1ED27F91.d.734599332DA149A9463378A0ED81C172.e.96}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.218, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\\Users\\vrive\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56903}, goog:processID: 6516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56903/devtoo..., se:cdpVersion: 148.0.7778.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (dbb0e7b0492c7f1aadb4f38f2101f466)] -\u003e xpath: //div[@class\u003d\u0027modal-body\u0027]//div[@class\u003d\u0027form-group\u0027]//input]\nSession ID: dbb0e7b0492c7f1aadb4f38f2101f466",
+  "testFailureSummary": "ERROR;org.openqa.selenium.ElementNotInteractableException;element not interactable\n  (Session info: chrome\u003d148.0.7778.218)\nBuild info: version: \u00274.38.0\u0027, revision: \u00276b412e825c*\u0027\nSystem info: os.name: \u0027Windows 11\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002721.0.4\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [dbb0e7b0492c7f1aadb4f38f2101f466, clearElement {id\u003df.33BF4470D0A49C7F41BE545C1ED27F91.d.734599332DA149A9463378A0ED81C172.e.96}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.218, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\\Users\\vrive\\AppData\\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56903}, goog:processID: 6516, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56903/devtoo..., se:cdpVersion: 148.0.7778.218, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on windows (dbb0e7b0492c7f1aadb4f38f2101f466)] -\u003e xpath: //div[@class\u003d\u0027modal-body\u0027]//div[@class\u003d\u0027form-group\u0027]//input]\nSession ID: dbb0e7b0492c7f1aadb4f38f2101f466;PlaceOrderPage.java",
+  "projectKey": "",
+  "annotatedResult": "ERROR",
+  "sessionId": "dbb0e7b0492c7f1aadb4f38f2101f466",
+  "driver": "chrome",
+  "isManualTestingUpToDate": false,
+  "context": "chrome,windows",
+  "manual": false,
+  "testSource": "Cucumber",
+  "order": 0,
+  "result": "ERROR"
+}

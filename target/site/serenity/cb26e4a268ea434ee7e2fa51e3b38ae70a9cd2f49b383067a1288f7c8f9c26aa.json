@@ -1,0 +1,144 @@
+{
+  "name": "Customer purchases two products from different categories",
+  "id": "stay-on-the-demoblaze-home-page;customer-purchases-two-products-from-different-categories",
+  "scenarioId": "boughtProduct:Customer purchases two products from different categories",
+  "methodName": "Customer purchases two products from different categories",
+  "testSteps": [
+    {
+      "number": 1,
+      "description": "Given the customer is on the Demoblaze home page as a guest user",
+      "duration": 2795,
+      "startTime": "2026-06-06T21:32:33.983718600-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "378c60e637d2a478402f0afab2b75e397ddbaacfb601a0ea115dea3cf2a0d9d8.png",
+          "timeStamp": 1780799556778,
+          "screenshotName": "378c60e637d2a478402f0afab2b75e397ddbaacfb601a0ea115dea3cf2a0d9d8.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 2,
+          "description": "Open the Demoblaze home page",
+          "duration": 2399,
+          "startTime": "2026-06-06T21:32:34.372656800-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "378c60e637d2a478402f0afab2b75e397ddbaacfb601a0ea115dea3cf2a0d9d8.png",
+              "timeStamp": 1780799556771,
+              "screenshotName": "378c60e637d2a478402f0afab2b75e397ddbaacfb601a0ea115dea3cf2a0d9d8.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "description": "When the customer selects the \"Monitors\"",
+      "duration": 3590,
+      "startTime": "2026-06-06T21:32:36.779996900-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "91a36c236a6240adffbe2385e48df0d8c05e570b97d091977ed34e760430e5d7.png",
+          "timeStamp": 1780799560370,
+          "screenshotName": "91a36c236a6240adffbe2385e48df0d8c05e570b97d091977ed34e760430e5d7.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 4,
+          "description": "Select the category",
+          "duration": 3574,
+          "startTime": "2026-06-06T21:32:36.788008200-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "91a36c236a6240adffbe2385e48df0d8c05e570b97d091977ed34e760430e5d7.png",
+              "timeStamp": 1780799560362,
+              "screenshotName": "91a36c236a6240adffbe2385e48df0d8c05e570b97d091977ed34e760430e5d7.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "description": "And the customer clicks on a  \"ASUS Full HD\"",
+      "duration": 4163,
+      "startTime": "2026-06-06T21:32:40.370406900-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "8dac00db6e49b71dee1b71c0e4fb5ffc483c2b53b1a89d87e08a5705c48f85a0.png",
+          "timeStamp": 1780799564533,
+          "screenshotName": "8dac00db6e49b71dee1b71c0e4fb5ffc483c2b53b1a89d87e08a5705c48f85a0.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0
+    }
+  ],
+  "userStory": {
+    "id": "boughtProduct",
+    "storyName": "Stay on the Demoblaze home page",
+    "displayName": "Stay on the Demoblaze home page",
+    "path": "boughtProduct",
+    "pathElements": [
+      {
+        "name": "boughtProduct",
+        "description": ""
+      }
+    ],
+    "type": "feature"
+  },
+  "title": "Customer purchases two products from different categories",
+  "description": "",
+  "backgroundTitle": "",
+  "backgroundDescription": "",
+  "tags": [
+    {
+      "name": "Chrome",
+      "type": "context",
+      "displayName": "Chrome"
+    },
+    {
+      "name": "Windows",
+      "type": "context",
+      "displayName": "Windows"
+    },
+    {
+      "name": "Purchaseproduct",
+      "type": "tag",
+      "displayName": "Purchaseproduct",
+      "rawStringFromValueTag": "Purchaseproduct"
+    },
+    {
+      "name": "Chrome, Windows",
+      "type": "context",
+      "displayName": "Chrome, Windows"
+    }
+  ],
+  "startTime": "2026-06-06T21:32:33.524925700-05:00[America/Bogota]",
+  "endTime": "2026-06-06T21:32:44.535883700-05:00[America/Bogota]",
+  "duration": 2921,
+  "projectKey": "",
+  "sessionId": "87e8853845ff5fc0b3a66032aa15c3a2",
+  "driver": "chrome",
+  "isManualTestingUpToDate": false,
+  "context": "chrome,windows",
+  "manual": false,
+  "testSource": "Cucumber",
+  "order": 0,
+  "result": "SUCCESS"
+}

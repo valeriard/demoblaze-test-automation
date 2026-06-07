@@ -1,0 +1,389 @@
+{
+  "name": "Add multiple products to the cart",
+  "id": "stay-on-the-demoblaze-home-page;add-multiple-products-to-the-cart",
+  "scenarioId": "boughtProduct:Add multiple products to the cart",
+  "methodName": "Add multiple products to the cart",
+  "testSteps": [
+    {
+      "number": 1,
+      "description": "Given the customer is on the Demoblaze home page as a guest user",
+      "duration": 3073,
+      "startTime": "2026-06-07T12:48:11.773878800-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+          "timeStamp": 1780854494846,
+          "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 2,
+          "description": "Open the Demoblaze home page",
+          "duration": 2560,
+          "startTime": "2026-06-07T12:48:12.278920200-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+              "timeStamp": 1780854494838,
+              "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "description": "When the customer selects the \"Monitors\"",
+      "duration": 3565,
+      "startTime": "2026-06-07T12:48:14.848221600-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "6210e95020020db9e15527e8200d00b9654017277216828856c05e6157db54fa.png",
+          "timeStamp": 1780854498413,
+          "screenshotName": "6210e95020020db9e15527e8200d00b9654017277216828856c05e6157db54fa.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 4,
+          "description": "Select the category",
+          "duration": 3549,
+          "startTime": "2026-06-07T12:48:14.856223600-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "6210e95020020db9e15527e8200d00b9654017277216828856c05e6157db54fa.png",
+              "timeStamp": 1780854498405,
+              "screenshotName": "6210e95020020db9e15527e8200d00b9654017277216828856c05e6157db54fa.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "description": "And the customer add the  \"ASUS Full HD\" product to the cart",
+      "duration": 4145,
+      "startTime": "2026-06-07T12:48:18.413469-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "45e4879da8b5d86348d6938562824786da96b98b6f9bfaa963794df024a0ceb1.png",
+          "timeStamp": 1780854502558,
+          "screenshotName": "45e4879da8b5d86348d6938562824786da96b98b6f9bfaa963794df024a0ceb1.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 6,
+      "description": "And the customer goes to home page",
+      "duration": 5771,
+      "startTime": "2026-06-07T12:48:22.559086800-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "7a79a61725bf2759e4947d130b09a29d272b1f1f739b9aff6852ce9b54cad803.png",
+          "timeStamp": 1780854508330,
+          "screenshotName": "7a79a61725bf2759e4947d130b09a29d272b1f1f739b9aff6852ce9b54cad803.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 7,
+          "description": "Go back to the home page",
+          "duration": 5752,
+          "startTime": "2026-06-07T12:48:22.566079400-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "7a79a61725bf2759e4947d130b09a29d272b1f1f739b9aff6852ce9b54cad803.png",
+              "timeStamp": 1780854508319,
+              "screenshotName": "7a79a61725bf2759e4947d130b09a29d272b1f1f739b9aff6852ce9b54cad803.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "description": "And the customer add the  \"Nexus 6\" product to the cart",
+      "duration": 4258,
+      "startTime": "2026-06-07T12:48:28.331072800-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "d7b997e33ef538a4e825662ba2fbaa44c01ce4515528fe8b01d438caa7bac832.png",
+          "timeStamp": 1780854512590,
+          "screenshotName": "d7b997e33ef538a4e825662ba2fbaa44c01ce4515528fe8b01d438caa7bac832.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 9,
+      "description": "And the customer goes to \"Cart\" page",
+      "duration": 5967,
+      "startTime": "2026-06-07T12:48:32.591024800-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png",
+          "timeStamp": 1780854518557,
+          "screenshotName": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 10,
+      "description": "Then the cart should contain 2 products",
+      "duration": 229,
+      "startTime": "2026-06-07T12:48:38.558117100-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png",
+          "timeStamp": 1780854518565,
+          "screenshotName": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 11,
+          "description": "Verify cart contains 2 products",
+          "duration": 214,
+          "startTime": "2026-06-07T12:48:38.567147400-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png",
+              "timeStamp": 1780854518575,
+              "screenshotName": "15f8cc611b043655b3f8277550838db0fb4435fed884decfe49fc6315a43813e.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "description": "And the customer clicks on Place Order button",
+      "duration": 5350,
+      "startTime": "2026-06-07T12:48:38.787529600-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "88daa09d194f9990816f580615ae6505e3e81ad2b136009cf8dc294f3acd7e33.png",
+          "timeStamp": 1780854524137,
+          "screenshotName": "88daa09d194f9990816f580615ae6505e3e81ad2b136009cf8dc294f3acd7e33.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 13,
+          "description": "Click on Place Order button",
+          "duration": 5338,
+          "startTime": "2026-06-07T12:48:38.793532400-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "88daa09d194f9990816f580615ae6505e3e81ad2b136009cf8dc294f3acd7e33.png",
+              "timeStamp": 1780854524131,
+              "screenshotName": "88daa09d194f9990816f580615ae6505e3e81ad2b136009cf8dc294f3acd7e33.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "description": "And the customer fills in the purchase form with valid information",
+      "duration": 6177,
+      "startTime": "2026-06-07T12:48:44.137683200-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png",
+          "timeStamp": 1780854530315,
+          "screenshotName": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 15,
+          "description": "Fill order form",
+          "duration": 827,
+          "startTime": "2026-06-07T12:48:44.146686600-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "ef2eb814e7170233e685e58ec6ea359d6cbcaaf38e1c61c00ddb55e89b19bc5e.png",
+              "timeStamp": 1780854524974,
+              "screenshotName": "ef2eb814e7170233e685e58ec6ea359d6cbcaaf38e1c61c00ddb55e89b19bc5e.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        },
+        {
+          "number": 16,
+          "description": "Click on Purchase button",
+          "duration": 5334,
+          "startTime": "2026-06-07T12:48:44.975365600-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "ef2eb814e7170233e685e58ec6ea359d6cbcaaf38e1c61c00ddb55e89b19bc5e.png",
+              "timeStamp": 1780854524981,
+              "screenshotName": "ef2eb814e7170233e685e58ec6ea359d6cbcaaf38e1c61c00ddb55e89b19bc5e.png"
+            },
+            {
+              "screenshot": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png",
+              "timeStamp": 1780854530309,
+              "screenshotName": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "description": "Then a confirmation message should be displayed confirming the purchase",
+      "duration": 1034,
+      "startTime": "2026-06-07T12:48:50.315442700-05:00[America/Bogota]",
+      "screenshots": [
+        {
+          "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+          "timeStamp": 1780854531349,
+          "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+        }
+      ],
+      "result": "SUCCESS",
+      "precondition": false,
+      "level": 0,
+      "children": [
+        {
+          "number": 18,
+          "description": "Ensure the order was placed",
+          "duration": 303,
+          "startTime": "2026-06-07T12:48:50.322554700-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png",
+              "timeStamp": 1780854530328,
+              "screenshotName": "3abeccd32991814ca8b51192f3328681085d327147356ea97946b3527e0fdf47.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        },
+        {
+          "number": 19,
+          "description": "Click ok button",
+          "duration": 717,
+          "startTime": "2026-06-07T12:48:50.625625-05:00[America/Bogota]",
+          "screenshots": [
+            {
+              "screenshot": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png",
+              "timeStamp": 1780854531343,
+              "screenshotName": "65ee0f4a83ee2d42191c11c80fde8f543ae0d26143b659793eccd1521fa3b589.png"
+            }
+          ],
+          "result": "SUCCESS",
+          "precondition": false,
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "userStory": {
+    "id": "boughtProduct",
+    "storyName": "Stay on the Demoblaze home page",
+    "displayName": "Stay on the Demoblaze home page",
+    "path": "boughtProduct",
+    "pathElements": [
+      {
+        "name": "boughtProduct",
+        "description": ""
+      }
+    ],
+    "type": "feature"
+  },
+  "title": "Add multiple products to the cart",
+  "description": "",
+  "backgroundTitle": "",
+  "backgroundDescription": "",
+  "tags": [
+    {
+      "name": "Chrome",
+      "type": "context",
+      "displayName": "Chrome"
+    },
+    {
+      "name": "Windows",
+      "type": "context",
+      "displayName": "Windows"
+    },
+    {
+      "name": "EndToEnd",
+      "type": "tag",
+      "displayName": "EndToEnd",
+      "rawStringFromValueTag": "EndToEnd"
+    },
+    {
+      "name": "Purchaseproduct",
+      "type": "tag",
+      "displayName": "Purchaseproduct",
+      "rawStringFromValueTag": "Purchaseproduct"
+    },
+    {
+      "name": "Chrome, Windows",
+      "type": "context",
+      "displayName": "Chrome, Windows"
+    }
+  ],
+  "startTime": "2026-06-07T12:48:11.308052500-05:00[America/Bogota]",
+  "endTime": "2026-06-07T12:48:51.350603400-05:00[America/Bogota]",
+  "duration": 3173,
+  "projectKey": "",
+  "sessionId": "ecfeaf7c7634389a710d6f485e807c72",
+  "driver": "chrome",
+  "isManualTestingUpToDate": false,
+  "context": "chrome,windows",
+  "manual": false,
+  "testSource": "Cucumber",
+  "order": 0,
+  "result": "SUCCESS"
+}

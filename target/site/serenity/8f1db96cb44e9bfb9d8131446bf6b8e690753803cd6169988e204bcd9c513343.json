@@ -1,0 +1,70 @@
+{
+  "name": "Customer purchases two products from different categories",
+  "id": "stay-on-the-demoblaze-home-page;customer-purchases-two-products-from-different-categories",
+  "scenarioId": "boughtProduct:Customer purchases two products from different categories",
+  "methodName": "Customer purchases two products from different categories",
+  "testSteps": [
+    {
+      "number": 1,
+      "description": "Given the customer is on the Demoblaze home page as a guest user",
+      "duration": 53,
+      "startTime": "2026-06-06T20:53:26.595926900-05:00[America/Bogota]",
+      "result": "PENDING",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 2,
+      "description": "When the customer selects the \"Monitors\"",
+      "duration": 6,
+      "startTime": "2026-06-06T20:53:26.653040800-05:00[America/Bogota]",
+      "result": "IGNORED",
+      "precondition": false,
+      "level": 0
+    },
+    {
+      "number": 3,
+      "description": "And the customer clicks on a  \"ASUS Full HD\"",
+      "duration": 1,
+      "startTime": "2026-06-06T20:53:26.659041100-05:00[America/Bogota]",
+      "result": "IGNORED",
+      "precondition": false,
+      "level": 0
+    }
+  ],
+  "userStory": {
+    "id": "boughtProduct",
+    "storyName": "Stay on the Demoblaze home page",
+    "displayName": "Stay on the Demoblaze home page",
+    "path": "boughtProduct",
+    "pathElements": [
+      {
+        "name": "boughtProduct",
+        "description": ""
+      }
+    ],
+    "type": "feature"
+  },
+  "title": "Customer purchases two products from different categories",
+  "description": "",
+  "backgroundTitle": "",
+  "backgroundDescription": "",
+  "tags": [
+    {
+      "name": "Purchaseproduct",
+      "type": "tag",
+      "displayName": "Purchaseproduct",
+      "rawStringFromValueTag": "Purchaseproduct"
+    }
+  ],
+  "startTime": "2026-06-06T20:53:26.579330500-05:00[America/Bogota]",
+  "endTime": "2026-06-06T20:53:26.666060200-05:00[America/Bogota]",
+  "duration": 86,
+  "projectKey": "",
+  "annotatedResult": "PENDING",
+  "isManualTestingUpToDate": false,
+  "manual": false,
+  "testSource": "Cucumber",
+  "order": 0,
+  "result": "PENDING"
+}
