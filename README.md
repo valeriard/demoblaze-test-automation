@@ -10,7 +10,6 @@ Proyecto de automatización de pruebas E2E para [Demoblaze](https://www.demoblaz
 - [Instalación](#-instalación)
 - [Ejecución de Pruebas](#-ejecución-de-pruebas)
 - [Reportes](#-reportes)
-- [Patrones y Buenas Prácticas](#-patrones-y-buenas-prácticas)
 
 ## 🚀 Tecnologías
 
