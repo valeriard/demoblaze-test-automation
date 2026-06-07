@@ -70,6 +70,7 @@ start target/site/serenity/index.html
 open target/site/serenity/index.html
 
 🎯 Casos de Prueba
+
 @EndToEnd - Flujo Completo de Compra
 ✅ Agregar múltiples productos al carrito
 ✅ Validar cantidad de productos en el carrito
